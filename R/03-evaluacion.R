@@ -1,0 +1,5 @@
+medidas() <- function()
+ljung_box() <- function()
+jarque_bera() <- function()
+durbin_watson() <- function()
+validar_errores() <- function()
